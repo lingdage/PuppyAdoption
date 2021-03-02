@@ -5,7 +5,7 @@
 ![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
 
 
-## :scroll: Description
+## Puppy Adoption
 <!--- Describe your app in one or two sentences -->
 
 
